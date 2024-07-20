@@ -7,4 +7,5 @@ heare we have a tabel to describe method:
 | insert | You can easily use it just by using the argument in the method, after using this method the added value will be saved in the back of the array. | `array->insert(6);` |
 | print | you can print array by using *print* method | `array->print();` |
 | erase | you can delete target value by using this method | `array->erase(2);` |
-i try to update this class and add important method's :)
+
+###I try to update this class and add important method's :)

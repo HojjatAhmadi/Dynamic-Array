@@ -8,4 +8,4 @@ heare we have a tabel to describe method:
 | print | you can print array by using *print* method | `array->print();` |
 | erase | you can delete target value by using this method | `array->erase(2);` |
 
-###I try to update this class and add important method's :)
+### I try to update this class and add important method's :)
